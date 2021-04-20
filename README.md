@@ -19,6 +19,9 @@ http://goo.gl/mqJ7D
 ## Docker 설치
 ### Docker와 Docker-compose 설치 (공식 가이드에 따름)
 - https://docs.docker.com/engine/install/ubuntu/#installation-methods
+```
+sudo usermod -aG docker $USER
+```
 - https://docs.docker.com/compose/install/
 
 ## 다운로드 위치
