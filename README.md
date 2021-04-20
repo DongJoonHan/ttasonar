@@ -32,3 +32,6 @@ sudo usermod -aG docker $USER
 ```
 $ sudo sysctl -w vm.max_map_count=262144
 ```
+
+## Sonar-scanner 다운로드
+https://docs.sonarqube.org/latest/analysis/scan/sonarscanner/
