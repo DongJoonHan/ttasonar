@@ -27,3 +27,8 @@ sudo usermod -aG docker $USER
 ## 다운로드 위치
 - https://github.com/SonarSource/docker-sonarqube/blob/master/example-compose-files/sq-with-postgres/docker-compose.yml
 - https://github.com/SonarSource/docker-sonarqube.git 를 Git으로 Clone 하는 것을 추천
+
+## SonarQube 실행 문제 해결 (VMMax)
+```
+$ sysctl -w vm.max_map_count=262144
+```
