@@ -26,6 +26,10 @@ sudo usermod -aG docker $USER
 ```
 - https://docs.docker.com/compose/install/
 
+### 초보를 위한 Docker 설치
+https://subicura.com/2017/01/19/docker-guide-for-beginners-2.html
+
+
 ## 다운로드 위치
 - https://github.com/SonarSource/docker-sonarqube/blob/master/example-compose-files/sq-with-postgres/docker-compose.yml
 - https://github.com/SonarSource/docker-sonarqube.git 를 Git으로 Clone 하는 것을 추천
