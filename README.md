@@ -15,6 +15,8 @@ https://www.dropbox.com/s/s6k4p2js6h9st0y/Maven_Jenkins_Git.pdf?dl=0
 
 ## 정적분석 룰 번역 참고
 http://goo.gl/mqJ7D
+원본 발표 자료: https://www.slideshare.net/kthcorp/d3-15042361
+
 
 ## Docker 설치
 ### Docker와 Docker-compose 설치 (공식 가이드에 따름)
