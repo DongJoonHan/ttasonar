@@ -41,3 +41,7 @@ $ sudo sysctl -w vm.max_map_count=262144
 
 ## Sonar-scanner 다운로드
 https://docs.sonarqube.org/latest/analysis/scan/sonarscanner/
+
+
+## CPPCheck와 Jenkins
+https://www.dropbox.com/s/rulm3vxnf3fji1b/cppcheck_jenkins.pdf?dl=0
